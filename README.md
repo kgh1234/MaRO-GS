@@ -222,7 +222,7 @@ $\mathcal{L}_{obj}$ is applied after the first `--prune_iterations` step, with t
 
 ## TODO
 
-- [ ] Code update
+- [X] Code update
 - [ ] arXiv upload
 - [ ] Dataset update (LERF-Mask)
 
