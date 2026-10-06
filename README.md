@@ -1,7 +1,7 @@
 # MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks.
 
 
-[![Conference](https://img.shields.io/badge/ACCV-2026-blue)](#) [![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-red)](#) [![Project Page](https://img.shields.io/badge/Project%20Page-MaRO--GS-green)](https://eunjikim02.github.io/marogs/) [![Docker](https://img.shields.io/badge/Docker-mobuk%2Fmarogs-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/mobuk/marogs)
+[![Conference](https://img.shields.io/badge/ACCV-2026-blue)](#) [![arXiv](https://img.shields.io/badge/arXiv-2026-red)](https://arxiv.org/abs/2610.06472) [![Project Page](https://img.shields.io/badge/Project%20Page-MaRO--GS-green)](https://eunjikim02.github.io/marogs/) [![Docker](https://img.shields.io/badge/Docker-mobuk%2Fmarogs-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/mobuk/marogs)
 
 [Eunji Kim](https://eunjikim02.github.io/)<sup>\*</sup>, [Gahyeon Kim](https://github.com/kgh1234)<sup>\*</sup>, [Gianella Cravioto](https://www.linkedin.com/in/gianella-cravioto/), Dong-hun Lee, [Chaewon Moon](https://mchaewon.github.io/), [Chae-yeong Song](https://www.linkedin.com/in/chae-yeong-song-171816259), and [Sang-hyo Park](https://scholar.google.com/citations?user=ZG8REuYAAAAJ&hl=en)<sup>†</sup>
 
